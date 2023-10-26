@@ -1,7 +1,7 @@
 # AntiSpy
 # Joshua Sopuru 
 Is someone Spying me? Python Script to check if your Camera or Audio is secretly recording you
-
+def main():
 import os
 import psutil
 import ctypes
